@@ -5,7 +5,7 @@
  * Use of this software requires acceptance of the Evaluation License Agreement. See LICENSE file.
  */
 
-namespace Spryker\Glue\WarehouseUsersBackendApi\Plugin\GlueApplication;
+namespace Spryker\Glue\WarehouseUsersBackendApi\Plugin\GlueBackendApiApplication;
 
 use Generated\Shared\Transfer\GlueResourceMethodCollectionTransfer;
 use Generated\Shared\Transfer\GlueResourceMethodConfigurationTransfer;
